@@ -55,7 +55,7 @@
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseOfMfc>Static</UseOfMfc>
     <CharacterSet>Unicode</CharacterSet>
-    <PlatformToolset>v140_xp</PlatformToolset>
+    <PlatformToolset>v120_xp</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseM|x64'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
@@ -67,7 +67,7 @@
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseOfMfc>Static</UseOfMfc>
     <CharacterSet>Unicode</CharacterSet>
-    <PlatformToolset>v140</PlatformToolset>
+    <PlatformToolset>v120_xp</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugM|x64'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
@@ -79,7 +79,7 @@
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseOfMfc>Static</UseOfMfc>
     <CharacterSet>Unicode</CharacterSet>
-    <PlatformToolset>v140</PlatformToolset>
+    <PlatformToolset>v120_xp</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Demo|x64'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
@@ -91,7 +91,7 @@
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseOfMfc>Static</UseOfMfc>
     <CharacterSet>Unicode</CharacterSet>
-    <PlatformToolset>v140</PlatformToolset>
+    <PlatformToolset>v120_xp</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
@@ -103,7 +103,7 @@
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseOfMfc>Static</UseOfMfc>
     <CharacterSet>Unicode</CharacterSet>
-    <PlatformToolset>v140</PlatformToolset>
+    <PlatformToolset>v120_xp</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
