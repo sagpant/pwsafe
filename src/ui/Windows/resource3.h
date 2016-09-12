@@ -42,6 +42,7 @@
 #define IDS_CLEARPWHISTORY              5111
 #define IDS_SAVEIMMEDIATELY             5112
 #define IDS_DBLOCK                      5113
+<<<<<<< HEAD
 #define IDS_USERBACKUPOTHERLOCATION2    5114
 #define IDS_SMARTLABELHELP              5115
 #define IDS_PASSWORDHELP                5116
@@ -49,6 +50,9 @@
 #define IDS_AUTOTYPEHELP                5118
 #define IDS_PWHHELP                     5119
 #define IDS_PASSWORDHELP2               5120
+=======
+#define IDS_PURGEORPHANATTACHMENTS      5114
+>>>>>>> Support orphaned attachments. Introduce "purge" of attachments.
 
 // Program strings
 #define IDS_FILEERROR1                  5210
@@ -793,3 +797,13 @@
 #define IDS_CHANGINGBASEENTRY1          6040
 #define IDS_CHANGINGBASEENTRY2          6041
 #define IDS_EXP_ALIAS                   6042
+#define IDS_ATT_IMPORT                  6043
+#define IDS_ATT_EXPORT                  6044
+#define IDS_ATT_REMOVE                  6045
+#define IDS_ATT_ATTACH                  6046
+#define IDS_NUMREFS                     6047
+#define IDS_FILESIZE                    6048
+#define IDS_PURGEATTACHMENT             6049
+#define IDS_MANAGEATTACHMENTS           6050
+#define IDS_MARKFORPURGING              6051
+#define IDS_UNMARKFORPURGING            6052
