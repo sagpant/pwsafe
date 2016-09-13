@@ -390,13 +390,11 @@
 #define IDB_QUESTIONMARK                547
 #define IDD_VIEWATTACHMENT              548
 #define IDB_EMPTY_DISABLED              549
-<<<<<<< HEAD
 #define IDB_REDEXCLAMATION              550
-=======
-#define IDD_VIEWAVAILABLEATTACHMENTS    550
-#define IDD_VIEWATTACHMENTENTRIES       551
-#define IDD_MANAGEATTACHMENTS           552
->>>>>>> Support orphaned attachments. Introduce "purge" of attachments.
+#define IDD_VIEWAVAILABLEATTACHMENTS    551
+#define IDD_VIEWATTACHMENTENTRIES       552
+#define IDD_MANAGEATTACHMENTS           553
+#define IDD_REUSEATTACHMENT             554
 #define IDC_APPVERSION                  1000
 #define IDC_VERSION                     1001
 #define IDC_APPVERSION2                 1002
