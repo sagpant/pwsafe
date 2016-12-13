@@ -2340,7 +2340,7 @@ bool DboxMain::LockDataBase()
    */
 
   // Now try and save changes
-  if (m_core.HasAnythingChanged() || m_bEntryTimestampsChanged) {
+  if (m_core.HasDBChanged() || m_bEntryTimestampsChanged) {
     if (Save(ST_ONLOCK) != PWScore::SUCCESS) {
       // If we don't warn the user, data may be lost!
       CGeneralMsgBox gmb;
